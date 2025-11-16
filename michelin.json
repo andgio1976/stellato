@@ -1,1 +1,37 @@
-
+[
+{
+id: "p1",
+nome: "Risotto allo Zafferano Storico",
+foto: "https://images.unsplash.com/photo-1604908177522-5a2c6f7a3a9b?q=80&w=800&auto=format&fit=crop&ixlib=rb-4.0.3&s=abc",
+ingredienti: ["Riso Carnaroli", "Zafferano di Sicilia", "Burro", "Brodo di carne", "Parmigiano Reggiano"],
+prezzo: 38
+},
+{
+id: "p2",
+nome: "Filetto di Manzo al Vino Storico",
+foto: "https://images.unsplash.com/photo-1543353071-087092ec393b?q=80&w=800&auto=format&fit=crop&ixlib=rb-4.0.3&s=def",
+ingredienti: ["Filetto di manzo", "Vino rosso invecchiato", "Erbe aromatiche", "Sale marino"],
+prezzo: 52
+},
+{
+id: "p3",
+nome: "Gambero Rosso in Crosta Storico",
+foto: "https://images.unsplash.com/photo-1544025162-d76694265947?q=80&w=800&auto=format&fit=crop&ixlib=rb-4.0.3&s=ghi",
+ingredienti: ["Gambero rosso", "Panko", "Agrumi", "Menta"],
+prezzo: 45
+},
+{
+id: "p4",
+nome: "Tiramisù Rivisitato Storico",
+foto: "https://images.unsplash.com/photo-1578985545062-69928b1d9587?q=80&w=800&auto=format&fit=crop&ixlib=rb-4.0.3&s=jkl",
+ingredienti: ["Mascarpone", "Savoiardi artigianali", "Caffè espresso", "Cacao amaro"],
+prezzo: 18
+},
+{
+id: "p5",
+nome: "Carpaccio di Capesante Storico",
+foto: "https://images.unsplash.com/photo-1604908177113-c9d2f3f3f1f1?q=80&w=800&auto=format&fit=crop&ixlib=rb-4.0.3&s=mno",
+ingredienti: ["Capesante", "Olio extravergine", "Limone", "Fior di sale"],
+prezzo: 29
+}
+];
