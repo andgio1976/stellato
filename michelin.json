@@ -1,37 +1,37 @@
 [
 {
-id: "p1",
-nome: "Risotto allo Zafferano",
-foto: "https://www.giallozafferano.it/images/174-17481/Risotto-allo-Zafferano_450x300.jpg",
-ingredienti: ["Riso Carnaroli", "Zafferano di Sicilia", "Burro", "Brodo di carne", "Parmigiano Reggiano"],
-prezzo: 38
+"id": "p1",
+"nome": "Risotto allo Zafferano",
+"foto": "https://www.giallozafferano.it/images/174-17481/Risotto-allo-Zafferano_450x300.jpg",
+"ingredienti": ["Riso Carnaroli", "Zafferano di Sicilia", "Burro", "Brodo di carne", "Parmigiano Reggiano"],
+"prezzo": 38
 },
 {
-id: "p2",
-nome: "Filetto di Manzo al Vino",
-foto: "https://www.salepepe.it/files/2024/10/AA644145_alta-1140x636.jpg",
-ingredienti: ["Filetto di manzo", "Vino rosso invecchiato", "Erbe aromatiche", "Sale marino"],
-prezzo: 52
+"id": "p2",
+"nome": "Filetto di Manzo al Vino",
+"foto": "https://www.salepepe.it/files/2024/10/AA644145_alta-1140x636.jpg",
+"ingredienti": ["Filetto di manzo", "Vino rosso invecchiato", "Erbe aromatiche", "Sale marino"],
+"prezzo": 52
 },
 {
-id: "p3",
-nome: "Gambero Rosso in Crosta",
-foto: "https://serendipitysocial.com/wp-content/uploads/2024/02/BCF5335WebRed-1-1.jpg",
-ingredienti: ["Gambero rosso", "Panko", "Agrumi", "Menta"],
-prezzo: 45
+"id": "p3",
+"nome": "Gambero Rosso in Crosta",
+"foto": "https://serendipitysocial.com/wp-content/uploads/2024/02/BCF5335WebRed-1-1.jpg",
+"ingredienti": ["Gambero rosso", "Panko", "Agrumi", "Menta"],
+"prezzo": 45
 },
 {
-id: "p4",
-nome: "Tiramisù Rivisitato",
-foto: "https://d3qpa3na1ei3ef.cloudfront.net/wp-content/uploads/sites/5/2024/02/Cardamon-Buns-1.png",
-ingredienti: ["Mascarpone", "Savoiardi artigianali", "Caffè espresso", "Cacao amaro"],
-prezzo: 18
+"id": "p4",
+"nome": "Tiramisù Rivisitato",
+"foto": "https://d3qpa3na1ei3ef.cloudfront.net/wp-content/uploads/sites/5/2024/02/Cardamon-Buns-1.png",
+"ingredienti": ["Mascarpone", "Savoiardi artigianali", "Caffè espresso", "Cacao amaro"],
+"prezzo": 18
 },
 {
-id: "p5",
-nome: "Carpaccio di Capesante",
-foto: "https://www.unileverfoodsolutions.it/dam/global-ufs/mcos/grit/italy/calcmenu/recipes/IT-recipes/other/carpaccio-di-capesante-e-gamberi-rossi-con-dressing-al-mango-e-spuma-al-wasabi/main-header.jpg",
-ingredienti: ["Capesante", "Olio extravergine", "Limone", "Fior di sale"],
-prezzo: 29
+"id": "p5",
+"nome": "Carpaccio di Capesante",
+"foto": "https://www.unileverfoodsolutions.it/dam/global-ufs/mcos/grit/italy/calcmenu/recipes/IT-recipes/other/carpaccio-di-capesante-e-gamberi-rossi-con-dressing-al-mango-e-spuma-al-wasabi/main-header.jpg",
+"ingredienti": ["Capesante", "Olio extravergine", "Limone", "Fior di sale"],
+"prezzo": 29
 }
 ]
